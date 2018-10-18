@@ -3,7 +3,7 @@
     "composer": "^0.19.1"
   },
   "name": "iot-asset-tracker-network",
-  "version": "0.1.4",
+  "version": "0.1.3",
   "description": "IoT Asset Tracker Perishable Goods Business Network",
   "scripts": {
     "clean": "rm -Rf ./node_modules ./dist ./composer-logs ./out",
